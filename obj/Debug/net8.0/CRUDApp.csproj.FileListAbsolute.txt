@@ -1,0 +1,296 @@
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/CRUDApp
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/CRUDApp.deps.json
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/CRUDApp.runtimeconfig.json
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/CRUDApp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/CRUDApp.pdb
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Base.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Controls.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Markup.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Metal.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Desktop.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Native.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Skia.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.Win32.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Avalonia.X11.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/HarfBuzzSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/MicroCom.Runtime.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/SkiaSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.csproj.AssemblyReference.cache
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/Avalonia/resources
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.AssemblyInfoInputs.cache
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.AssemblyInfo.cs
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.csproj.CoreCompileInputs.cache
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/Avalonia/CRUDApp.dll
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/Avalonia/CRUDApp.pdb
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/refint/Avalonia/CRUDApp.dll
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.csproj.Up2Date
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/CRUDApp.genruntimeconfig.cache
+/home/golovindv/projects/CRUDApp/obj/Debug/net8.0/ref/CRUDApp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Humanizer.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Npgsql.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.CodeDom.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/golovindv/projects/CRUDApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\CRUDApp.exe
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\CRUDApp.deps.json
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\CRUDApp.runtimeconfig.json
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\CRUDApp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\CRUDApp.pdb
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Base.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Controls.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Dialogs.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Markup.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Metal.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.MicroCom.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.OpenGL.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Vulkan.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Desktop.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Native.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Skia.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.Win32.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Avalonia.X11.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\HarfBuzzSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Humanizer.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\MicroCom.Runtime.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Npgsql.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\SkiaSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.csproj.AssemblyReference.cache
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\Avalonia\resources
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.AssemblyInfoInputs.cache
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.AssemblyInfo.cs
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.csproj.CoreCompileInputs.cache
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\Avalonia\CRUDApp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\Avalonia\CRUDApp.pdb
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\refint\Avalonia\CRUDApp.dll
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.csproj.Up2Date
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\CRUDApp.genruntimeconfig.cache
+c:\Users\Main\Downloads\Telegram Desktop\CRUDApp\obj\Debug\net8.0\ref\CRUDApp.dll

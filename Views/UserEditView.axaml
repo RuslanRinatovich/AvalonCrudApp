@@ -1,0 +1,34 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:pages="clr-namespace:CRUDApp.Views;assembly=CRUDApp"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="CRUDApp.Views.UserEditView"
+             x:DataType="pages:UserEditView">
+  <Grid>
+		<StackPanel VerticalAlignment="Center"
+					HorizontalAlignment="Center"
+					Width="300">
+			<TextBlock Text="Фамилия"/>
+			<TextBox Text="{Binding User.SecondName}"/>
+			<TextBlock Text="Имя"/>
+			<TextBox Text="{Binding User.FirstName}"/>
+      <TextBlock Text="Отчество"/>
+			<TextBox Text="{Binding User.MiddleName}"/>
+			<StackPanel Orientation="Horizontal">
+				<Button Content="Сохранить"
+					x:Name="SaveButton"
+					Click="SaveButton_Click"
+					HorizontalAlignment="Center"
+					Width="150"/>
+				<Button Content="Отмена"
+						x:Name="CancelButton"
+						Click="CancelButton_Click"
+						HorizontalAlignment="Center"
+						Width="150"/>
+			</StackPanel>
+
+		</StackPanel>
+	</Grid>
+</UserControl>
